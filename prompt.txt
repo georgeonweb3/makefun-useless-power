@@ -1,0 +1,4 @@
+Build a make.fun entry for "One Line, Zero Use: The Useless Superpower Sprint".
+Write a Python program (main.py, stdlib only, deterministic, no network) that writes
+one original, hilarious, useless-superpower one-liner of at most 200 characters to
+/output/entry.txt, then a README, LICENSE and .gitignore, and commit it as a public repo.
