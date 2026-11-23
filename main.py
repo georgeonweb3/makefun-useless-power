@@ -4,6 +4,11 @@
 Writes a single original one-liner (at most 200 characters) describing a
 hilariously useless superpower to /output/entry.txt.
 
+The line takes the familiar power of flight and turns it somewhere new with
+three stacked qualifiers, so the joke pays off in the last few words and the
+uselessness stays specific and easy to picture: three inches up, walking
+speed, and only on days going nowhere anyway.
+
 Deterministic, standard library only, no network, no randomness.
 """
 
