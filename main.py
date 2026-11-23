@@ -15,8 +15,9 @@ Deterministic, standard library only, no network, no randomness.
 import os
 from pathlib import Path
 
+# Entry: 116 chars, 118 bytes, 1 line.
 ENTRY = (
-    "I can fly \u2014 but only three inches off the ground, at walking speed, "
+    "I can fly — but only three inches off the ground, at walking speed, "
     "and only on days I wasn't going anywhere anyway."
 )
 
