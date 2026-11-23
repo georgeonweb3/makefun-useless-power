@@ -16,6 +16,7 @@ import os
 from pathlib import Path
 
 # Entry: 116 chars, 118 bytes, 1 line.
+# Gate: 1-200 chars, one line, UTF-8.
 ENTRY = (
     "I can fly — but only three inches off the ground, at walking speed, "
     "and only on days I wasn't going anywhere anyway."
